@@ -1,0 +1,11 @@
+email,label
+"Congratulations! You won $1000. Click here now.",phishing
+"Verify your bank account immediately.",phishing
+"Update your password using this link.",phishing
+"Your account has been suspended. Login now.",phishing
+"Claim your free gift card today.",phishing
+"Meeting scheduled tomorrow at 10 AM.",safe
+"Please review the attached project report.",safe
+"Thank you for attending the conference.",safe
+"Team meeting has been rescheduled.",safe
+"Monthly performance report attached.",safe
