@@ -1,2 +1,1 @@
-# Phishing-Email-Detection
-A machine learning-based phishing email detection system that classifies emails as Phishing or Safe using TF-IDF feature extraction and a Naive Bayes classifier.
+The Phishing Email Detection Model is a cybersecurity and machine learning project developed using Python and Scikit-learn. The system analyzes email content, extracts text features using TF-IDF vectorization, and classifies emails as either Phishing or Safe. The project also evaluates model performance using accuracy, confusion matrix, and classification reports, helping users understand the basics of email threat detection and machine learning-based security solutions.
